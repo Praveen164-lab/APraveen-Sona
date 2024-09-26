@@ -1,0 +1,38 @@
+body {
+    background-image: url("s2.jpeg");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: 100% 100%;
+}
+
+header {
+    color: black;
+}
+
+.box {
+    width: 200px;
+    height: 200px;
+    position: absolute;
+    left: 43%;
+}
+
+.box img {
+    width: 200px;
+    height: 200px;
+}
+
+.s1 img {
+    border: 1mm solid black;
+}
+
+.s2 img {
+    border: 1mm solid black;
+}
+
+.s3 img {
+    border: 1mm solid black;
+}
+
+.s4 img {
+    border: 1mm solid black;
+}
